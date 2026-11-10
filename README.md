@@ -4,7 +4,7 @@ This was an attempt by myself (a year 12 student) to make a neural network in C+
 Python - Copies the california dataset into a txt file for it to be equated to a matrix
 
 C++ - Utilises LeakyRelu (chooses the max of the number and 0, returns itself if number > 0 and multiplies by 0.01 if not)
-      Set up with 2 hidden layers and an output layer: Layer 1 - 8*32 (32 neurons); Layer 2 - 32*16 (16 neurons); Layer 3 - 16*1 (One Neuron)
+      Set up with 2 hidden layers and an output layer: Layer 1 - 8 * 32 (32 neurons); Layer 2 - 32 * 16 (16 neurons); Layer 3 - 16 * 1 (One Neuron)
 
       Split into two sections: Training and testing
       Defines every mathematical function used within c++
